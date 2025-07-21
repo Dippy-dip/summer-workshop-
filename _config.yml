@@ -8,4 +8,4 @@ description: Learning to build a website
 
   # Build settings
 
-remote_theme: jekyell/minima
+remote_theme: jekyll/minima
