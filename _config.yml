@@ -1,0 +1,11 @@
+# Site settings
+
+title: D. I. Production
+author: 
+  name: Darius Murphy 
+  email: dip.home2o26@gmail.com
+  desscription: Learning to build a website
+
+  # Build settings
+
+  remote_theme: jekyell/minima
